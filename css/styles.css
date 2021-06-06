@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+#pong {
+    width: 600px;
+    height: 400px;
+    border: 1px solid #000;
+}
+
